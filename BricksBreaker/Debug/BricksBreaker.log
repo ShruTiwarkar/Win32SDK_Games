@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\lenovo\source\repos\bricksbreaker\main.cpp(305): warning C4101: 'hBrush': unreferenced local variable
+c:\users\lenovo\source\repos\bricksbreaker\main.cpp(461): warning C4101: 'D_hRgn': unreferenced local variable
+  BricksBreaker.vcxproj -> C:\Users\Lenovo\source\repos\BricksBreaker\Debug\BricksBreaker.exe

@@ -1,0 +1,5 @@
+﻿  DrawEngine.cpp
+  main.cpp
+s:\win32sdk\tetrisblocksgame\main.cpp(77): warning C4101: 'hFont': unreferenced local variable
+  Generating Code...
+  TetrisBlocksGame.vcxproj -> S:\Win32SDK\TetrisBlocksGame\Debug\TetrisBlocksGame.exe
